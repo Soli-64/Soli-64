@@ -1,5 +1,5 @@
-- 👋 Hi, I’m 2oli-64
-- 👀 I’m interested in programming with python
+- 👋 Hi, I’m Soli-64
+- 👀 I’m interested in programming with python and javascript
 - 🌱 I’m currently learning gaming devloppement with python
 - 📫 Contact me on discord: Lso (id soli64)
 
