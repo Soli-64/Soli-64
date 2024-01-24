@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soli-64
 - 👀 I’m interested in programming with python and javascript
-- 🌱 I’m currently learning game devloppement with python
+- 🌱 I’m currently learning game devloppement with python and ReactJS
 - 📫 Contact me on discord: Lso (id soli64)
 
 <!---
